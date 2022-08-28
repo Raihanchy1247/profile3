@@ -1,0 +1,62 @@
+font-family: 'Roboto', sans-serif;
+.header-files{
+    padding: 50px;
+}
+
+.yellow-color{
+    color: orange;
+}
+
+.hire  {
+    text-decoration: none;
+    color: white;
+    background-color:red;
+    padding: 10px;
+    border-radius: 2px;
+}
+.right img{
+    height: 400px;
+}
+
+.header-files{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: left;
+    margin-bottom: 50px;
+
+}
+.Middle-files{
+   background-image: url(images/dream-bg.png);
+   background-repeat: no-repeat;
+   background-size: 100px;
+   background-position: right;
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.Middle-files img{
+    height: 400px;
+}
+.sec-text{
+padding: 90px;
+}
+.last-fields{
+    display: flex;
+}
+span{
+    color: orange;
+}
+.last-fields{
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-size: 80px;
+
+}
+.fullstack{
+    margin-left: 30px;
+}
+.babystack{
+    margin-left: 90px;
+}
